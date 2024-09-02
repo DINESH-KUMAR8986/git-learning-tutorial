@@ -1,1 +1,7 @@
 my name is dinesh.
+
+git commands...
+*git status
+*git init
+*git log
+*git ls
