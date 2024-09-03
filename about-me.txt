@@ -7,5 +7,8 @@ git commands...
 ls
 
 i writing this line in main branch.
+<<<<<<< HEAD
 
 hii from main branch..
+=======
+>>>>>>> work-experience
